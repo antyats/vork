@@ -25,7 +25,7 @@
 * epoch = 10
 * Изменил токенизацию на пословную
 
-![Alt text](image.png)
+![Alt text](2.png)
 
 На public получился 25.36
 
