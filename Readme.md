@@ -12,7 +12,7 @@
 * dropout = 0.1
 * epoch = 5
 
-![Alt text](<Снимок экрана 2024-03-14 в 15.54.27-1.png>)
+![Alt text](im.png)
 
 На public получился 7.49
 
